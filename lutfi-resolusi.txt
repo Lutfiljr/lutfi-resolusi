@@ -4,6 +4,4 @@ membuat platform untuk pengelolaan vidio
 membuat form diskusi
 istiqamah
 
-Kedepannya
-membuat merkshop
-kolaborasi dengan lebih banyak expert
+

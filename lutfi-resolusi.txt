@@ -4,6 +4,7 @@ membuat platform untuk pengelolaan vidio
 membuat form diskusi
 fokus belajar minimal 3 jam sehari
 - membuat minimal 1 content per pekan
+- memberi hadiah tiap selesai
 istiqamah
 
 
